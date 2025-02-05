@@ -2014,6 +2014,7 @@
 #include "modular_twilight\code\modules\druid_overhaul\main.dm"
 #include "modular_twilight\code\modules\hairstyles\module.dm"
 #include "modular_twilight\code\modules\living\overhead_effects.dm"
+#include "modular_twilight\code\modules\loadout\module.dm"
 #include "modular_twilight\code\modules\necra_tabard\module.dm"
 #include "modular_twilight\code\modules\roguetown\roguecrafting\sewing.dm"
 #include "modular_twilight\code\modules\roguetown\roguejobs\blacksmith\anvil_recipes\armor.dm"
